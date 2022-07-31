@@ -7,5 +7,6 @@ with additional interfaces.
 You may encounter an `nltk` error complaining that it can't find `punkt` resource.
 
 Try the following:
-  >>> import nltk
-  >>> nltk.download('punkt')
+`import nltk`
+then
+`nltk.download('punkt')`
